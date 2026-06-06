@@ -4,6 +4,11 @@
 
 The objective of this lab was to practice hardware, storage, boot, performance, battery, display, audio, camera, logging, and backup troubleshooting on a MacBook Air running macOS.
 
+## Related Study Notes
+
+This lab complements my CompTIA A+ Core 1 Module 4 notes, where I studied hardware troubleshooting concepts including storage devices, power issues, startup problems, cooling systems, and display troubleshooting.
+
+➡️ [CompTIA A+ Core 1 – Module 4 Notes](https://github.com/eduardo-durigon/comptia-a-plus-notes/tree/main/A%2B%20Core%201/Module-04)
 ## Hardware Information
 
 | Component        | Details            |
