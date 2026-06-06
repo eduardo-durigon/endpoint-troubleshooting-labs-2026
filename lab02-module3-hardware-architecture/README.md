@@ -4,6 +4,8 @@
 
 Analyze the hardware components and architecture of a MacBook Air using macOS system tools, Activity Monitor, Disk Utility, and Terminal commands.
 
+➡️ **View the notes:** [CompTIA A+ Core 1 – Module 03 Notes](https://github.com/eduardo-durigon/comptia-a-plus-notes/blob/main/A%2B%20Core%201/Module-03/notes.md)
+
 ---
 
 # Device Specifications
