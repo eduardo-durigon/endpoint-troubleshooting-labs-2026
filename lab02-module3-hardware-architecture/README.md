@@ -409,3 +409,9 @@ The system demonstrated the benefits of Apple Silicon, including:
 - Advanced memory management through compression and swap mechanisms
 
 The lab also highlighted the trade-off between modern system integration and hardware upgradeability, providing valuable insight into current computer hardware design principles.
+
+## Related Notes
+
+This lab was completed alongside my CompTIA A+ Module 3 study notes covering computer hardware, CPU architecture, memory technologies, storage devices, RAID configurations, and system components.
+
+➡️ **View the notes:** [CompTIA A+ Core 1 – Module 03 Notes](https://github.com/eduardo-durigon/comptia-a-plus-notes/blob/main/A%2B%20Core%201/Module-03/notes.md)
