@@ -4,6 +4,12 @@
 
 The objective of this lab was to practice network troubleshooting techniques using built-in macOS tools. The lab focused on identifying network configuration settings, verifying connectivity, testing DNS resolution, analyzing routing paths, and validating service availability through common TCP ports.
 
+## Related Notes
+
+This lab was completed as a practical companion to the CompTIA A+ Core 1 Module 06 networking concepts.
+
+📖 **Module Notes:** [CompTIA A+ Core 1 – Module 06 Notes](https://github.com/eduardo-durigon/comptia-a-plus-notes/blob/main/A%2B%20Core%201/Module-06/notes.md)
+
 ---
 
 ## Tools Used
