@@ -8,6 +8,10 @@ By completing this lab, I gained hands-on experience using Terminal commands and
 
 ---
 
+## Related Notes
+
+📚 [CompTIA A+ Core 1 – Module 5 Notes](https://github.com/eduardo-durigon/comptia-a-plus-notes/tree/main/A%2B%20Core%201/Module-05)
+
 ## Tools Used
 
 * macOS Terminal
