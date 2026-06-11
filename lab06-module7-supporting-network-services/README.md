@@ -4,6 +4,13 @@
 
 The objective of this lab was to apply networking concepts by testing and observing common network services, protocols, ports, DNS records, HTTPS/TLS communication, time synchronization, active connections, wireless networking information, and troubleshooting indicators using command-line tools in macOS.
 
+## Associated Notes
+
+🔗 **Module 7 Notes:**
+https://github.com/eduardo-durigon/comptia-a-plus-notes/blob/main/A%2B%20Core%201/Module-07/notes.md
+
+These notes cover the networking concepts applied throughout this lab, including DNS resolution, network services, HTTP/HTTPS communication, TLS certificates, common ports, mail-related DNS records, NTP, traceroute analysis, and troubleshooting methodologies.
+
 ---
 
 ## Tools Used
