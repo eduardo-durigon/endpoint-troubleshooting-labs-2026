@@ -6,6 +6,17 @@ The objective of this lab was to explore virtualization concepts by creating, co
 
 This lab demonstrates key virtualization concepts including hypervisors, virtual machines, resource allocation, virtual storage, virtual networking, guest operating systems, recovery points, and Linux system verification.
 
+## Related Study Notes
+
+This lab is based on the virtualization concepts covered in CompTIA A+ Core 1 Module 8.
+
+For my complete study notes on this module, including virtualization concepts, hypervisors, cloud computing, virtual machines, and resource allocation, visit:
+
+**📚 Module 8 Notes:**
+https://github.com/eduardo-durigon/comptia-a-plus-notes/tree/main/A%2B%20Core%201/Module-08
+
+These notes complement the hands-on exercises performed in this lab and document the concepts studied while preparing for the CompTIA A+ certification.
+
 ---
 
 ## Lab Environment
