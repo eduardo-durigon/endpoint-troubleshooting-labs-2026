@@ -196,15 +196,9 @@ Results:
 
 ---
 
-### 14. Recovery Point
+### Recovery Point
 
 UTM did not provide a traditional snapshot option in this VM configuration. Instead, the virtual machine was duplicated and saved as a baseline recovery point.
-
-Recovery point name:
-
-```text
-Ubuntu-Baseline
-```
 
 This duplicate VM can be used to restore a clean environment before performing future labs or major system changes.
 
